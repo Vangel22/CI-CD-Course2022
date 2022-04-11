@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: vangel_hristov/181233:latest
+          tags: Vangel22/CI-CD-Course2022:latest
